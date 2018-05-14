@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityClient", "ChainOfResponsibilityClient\ChainOfResponsibilityClient.csproj", "{3CB0B6D0-022F-4A9B-A357-B604766D342D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A1DE83B8-10AD-4804-8E88-5186E2CE0B32}"
+	ProjectSection(SolutionItems) = preProject
+		Chain of responsiblity UML.png.jpg = Chain of responsiblity UML.png.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
